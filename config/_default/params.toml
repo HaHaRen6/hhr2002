@@ -108,7 +108,7 @@ layoutBackgroundBlur = true # only used when layout equals background
 
 [article]
   showDate = true
-  showViews = false
+  showViews = true
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
@@ -178,14 +178,15 @@ layoutBackgroundBlur = true # only used when layout equals background
   cardView = true
   cardViewScreenWidth = false
 
+# https://blowfish.page/zh-cn/docs/firebase-views/
 [firebase]
-  # apiKey = "XXXXXX"
-  # authDomain = "XXXXXX"
-  # projectId = "XXXXXX"
-  # storageBucket = "XXXXXX"
-  # messagingSenderId = "XXXXXX"
-  # appId = "XXXXXX"
-  # measurementId = "XXXXXX"
+  apiKey = "AIzaSyA2PcMEd_r0aV0sf_6wf7IIJQLGiRAM4MU"
+  authDomain = "hhr-hugo.firebaseapp.com"
+  projectId = "hhr-hugo"
+  storageBucket = "hhr-hugo.appspot.com"
+  messagingSenderId = "351995663965"
+  appId = "1:351995663965:web:410a43185291fc4736dfb4"
+  measurementId = "G-PEJP00Y2GF"
 
 [fathomAnalytics]
   # site = "ABC12345"

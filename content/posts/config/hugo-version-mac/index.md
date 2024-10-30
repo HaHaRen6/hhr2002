@@ -2,7 +2,9 @@
 title: "在 MacOS 中安装指定版本 Hugo"
 date: 2024-10-24
 draft: false
-description: "省流：从github下载后拖到bin里"
+# description: "省流：从github下载后拖到bin里"
+# series: ["x"]
+# series_order: 1
 tags: ["MacOS", "Hugo"]
 ---
 

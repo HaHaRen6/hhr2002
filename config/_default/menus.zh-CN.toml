@@ -54,10 +54,15 @@
 #  weight = 20
 
 [[main]]
-  name = "Tags"
+  name = "标签"
   pageRef = "tags"
   weight = 30
 
+[[main]]
+  pre = "github"
+  # name = "GitHub"
+  url = "https://github.com/haharen6/hhr2002"
+  weight = 40
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
