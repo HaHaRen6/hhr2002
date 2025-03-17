@@ -1,0 +1,1 @@
+rsync -avz --delete public/ root@hhr2002.top:/root/data/docker_data/npm/data/public
